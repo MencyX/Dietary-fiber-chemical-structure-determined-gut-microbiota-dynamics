@@ -1,0 +1,159 @@
+source	target	value	group
+Badolescentis ATCC 15703	A1.2linker	1	AssP
+Badolescentis ATCC 15703	A1.3linker	3	N
+Llactis ATCC 19435	A1.4linker	2	N
+Badolescentis ATCC 15703	A1.5linker	3	N
+Badolescentis ATCC 15703	A1.6linker	4	N
+Badolescentis ATCC 15703	B1.2linker	1	Inu
+Badolescentis ATCC 15703	B1.4linker	1	N
+Badolescentis ATCC 15703	B1.6linker	4	N
+Badolescentis ATCC 15703	A1.6linker	1	N
+Badolescentis ATCC 15703	B1.4linker	8	N
+Badolescentis ATCC 15703	A1.2linker	1	AssP
+Badolescentis ATCC 15703	B1.2linker	1	N
+Badolescentis ATCC 15703	B2.6linker	1	AssP
+Badolescentis ATCC 15703	B1.4linker	2	N
+Badolescentis ATCC 15703	A1.6linker	1	N
+Badolescentis ATCC 15703	B1.4linker	1	N
+Llactis ATCC 19435	A1.6linker	1	N
+Llactis ATCC 19435	B1.4linker	1	N
+Llactis ATCC 19435	B1.4linker	1	N
+Llactis ATCC 19435	B1.4linker	1	N
+Llactis ATCC 19435	A1.6linker	2	N
+Llactis ATCC 19435	A1.5linker	1	N
+Lcasei ATCC 334	A1.6linker	3	N
+Lcasei ATCC 334	B1.6linker	1	N
+Lcasei ATCC 334	A1.6linker	2	N
+Lcasei ATCC 334	B1.4linker	1	N
+Lcasei ATCC 334	B1.2linker	1	Inu
+Lcasei ATCC 334	B2.6linker	1	AssP
+Lcasei ATCC 334	A1.2linker	1	AssP
+Lcasei ATCC 334	A1.2linker	1	AssP
+Bbreve ATCC 15700	A1.4linker	1	N
+Bbreve ATCC 15700	A1.6linker	3	N
+Bbreve ATCC 15700	B1.2linker	1	Inu
+Bbreve ATCC 15700	B1.6linker	3	N
+Bbreve ATCC 15700	A1.6linker	1	N
+Bbreve ATCC 15700	B1.4linker	4	N
+Bbreve ATCC 15700	B1.2linker	1	N
+Bbreve ATCC 15700	B2.6linker	1	AssP
+Bbreve ATCC 15700	A1.2linker	1	AssP
+Bbreve ATCC 15700	A1.2linker	1	AssP
+Lbrevis ATCC 14869	A1.6linker	2	N
+Lbrevis ATCC 14869	A1.3linker	1	N
+Lbrevis ATCC 14869	B1.6linker	2	N
+Lbrevis ATCC 14869	A1.6linker	1	N
+Lbrevis ATCC 14869	B1.4linker	3	N
+Lbrevis ATCC 14869	B1.4linker	3	N
+Lbrevis ATCC 14869	B1.4linker	1	N
+Lbrevis ATCC 14869	A1.3linker	3	N
+Lbrevis ATCC 14869	A1.5linker	3	N
+Blongum ATCC 15707	A1.6linker	2	N
+Blongum ATCC 15707	A1.3linker	1	N
+Blongum ATCC 15707	B1.2linker	2	Inu
+Blongum ATCC 15707	B1.6linker	2	N
+Blongum ATCC 15707	A1.6linker	1	N
+Blongum ATCC 15707	B1.4linker	3	N
+Blongum ATCC 15707	A1.2linker	1	AssP
+Blongum ATCC 15707	A1.2linker	1	AssP
+Blongum ATCC 15707	B1.2linker	1	N
+Blongum ATCC 15707	B2.6linker	1	AssP
+Blongum ATCC 15707	A1.3linker	1	N
+Blongum ATCC 15707	A1.5linker	1	N
+Lacidophilus ATCC 4356	A1.6linker	1	N
+Lacidophilus ATCC 4356	A1.3linker	1	N
+Lacidophilus ATCC 4356	A1.6linker	1	N
+Lacidophilus ATCC 4356	B1.4linker	4	N
+Lacidophilus ATCC 4356	A1.2linker	2	AssP
+Lacidophilus ATCC 4356	A1.2linker	2	AssP
+Lacidophilus ATCC 4356	B1.2linker	2	Inu
+Lacidophilus ATCC 4356	B2.6linker	2	AssP
+Lacidophilus ATCC 4356	B1.4linker	1	N
+Lacidophilus ATCC 4356	A1.6linker	1	N
+Lrhamnosus ATCC 53103	A1.6linker	2	N
+Lrhamnosus ATCC 53103	B1.6linker	1	N
+Lrhamnosus ATCC 53103	A1.6linker	2	N
+Lrhamnosus ATCC 53103	B1.4linker	2	N
+Lrhamnosus ATCC 53103	A1.2linker	1	AssP
+Lrhamnosus ATCC 53103	A1.2linker	1	AssP
+Lrhamnosus ATCC 53103	B1.2linker	1	Inu
+Lrhamnosus ATCC 53103	B2.6linker	1	AssP
+B1.2linker	Arabinose	1	N
+A1.2linker	Fructose	1	AssP
+A1.6linker	Galactose	1	N
+A1.6linker	Glucose	4	N
+B1.4linker	Mannose	1	N
+B1.4linker	Xylose	1	N
+B1.6linker	Glucose	4	N
+B1.4linker	Galactose	8	N
+A1.2linker	Glucose	1	AssP
+B1.2linker	Fructose	1	Inu
+B2.6linker	Fructose	1	AssP
+B1.4linker	Xylose	2	N
+A1.6linker	Glucose	1	N
+A1.3linker	Arabinose	3	N
+A1.5linker	Arabinose	3	N
+A1.4linker	Glucose	2	N
+A1.6linker	Glucose	1	N
+B1.4linker	Xylose	1	N
+B1.4linker	Galactose	1	N
+B1.4linker	Xylose	1	N
+A1.6linker	Glucose	2	N
+A1.5linker	Arabinose	1	N
+A1.6linker	Glucose	3	N
+B1.6linker	Glucose	1	N
+A1.6linker	Galactose	2	N
+B1.4linker	Galactose	1	N
+B1.2linker	Fructose	1	Inu
+B2.6linker	Fructose	1	AssP
+A1.2linker	Fructose	1	AssP
+A1.2linker	Glucose	1	AssP
+A1.4linker	Glucose	1	N
+A1.6linker	Glucose	3	N
+B1.2linker	Arabinose	1	N
+B1.6linker	Glucose	3	N
+A1.6linker	Galactose	1	N
+B1.4linker	Galactose	4	N
+B1.2linker	Fructose	1	Inu
+B2.6linker	Fructose	1	AssP
+A1.2linker	Fructose	1	AssP
+A1.2linker	Glucose	1	AssP
+A1.6linker	Glucose	2	N
+A1.3linker	Xylose	1	N
+B1.6linker	Glucose	2	N
+A1.6linker	Galactose	1	N
+B1.4linker	Galactose	3	N
+B1.4linker	Xylose	3	N
+B1.4linker	Glucose	1	N
+A1.3linker	Arabinose	3	N
+A1.5linker	Arabinose	3	N
+A1.6linker	Glucose	2	N
+A1.3linker	Xylose	1	N
+B1.2linker	Arabinose	2	N
+B1.6linker	Glucose	2	N
+A1.6linker	Galactose	1	N
+B1.4linker	Galactose	3	N
+A1.2linker	Fructose	1	AssP
+A1.2linker	Glucose	1	AssP
+B1.2linker	Fructose	1	Inu
+B2.6linker	Fructose	1	AssP
+A1.3linker	Arabinose	1	N
+A1.5linker	Arabinose	1	N
+A1.6linker	Glucose	1	N
+A1.3linker	Xylose	1	N
+A1.6linker	Galactose	1	N
+B1.4linker	Galactose	4	N
+A1.2linker	Fructose	2	AssP
+A1.2linker	Glucose	2	AssP
+B1.2linker	Fructose	2	Inu
+B2.6linker	Fructose	2	AssP
+B1.4linker	Glucose	1	N
+A1.6linker	Glucose	1	N
+A1.6linker	Glucose	2	N
+B1.6linker	Glucose	1	N
+A1.6linker	Galactose	2	N
+B1.4linker	Galactose	2	N
+A1.2linker	Fructose	1	AssP
+A1.2linker	Glucose	1	AssP
+B1.2linker	Fructose	1	Inu
+B2.6linker	Fructose	1	AssP
