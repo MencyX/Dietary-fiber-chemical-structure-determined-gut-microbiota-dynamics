@@ -1,4 +1,4 @@
-# Dietary-fiber-chemical-structure-determined-gut-microbiota-dynamics
+## Dietary-fiber-chemical-structure-determined-gut-microbiota-dynamics
 ### All figures and tables in the article: “Dietary Fiber Chemical Structure Determined Gut Microbiota Dynamics”
 ### More information can be found in the online DOI (https://doi.org/10.1002/imt2.64) or iMeta Science (http://www.imeta.science/)
 ###### 桑基图
