@@ -1,8 +1,6 @@
 # Dietary-fiber-chemical-structure-determined-gut-microbiota-dynamics
 ### All figures and tables in the article: “Dietary Fiber Chemical Structure Determined Gut Microbiota Dynamics”
 ### More information can be found in the online DOI (https://doi.org/10.1002/imt2.64) or iMeta Science (http://www.imeta.science/)
-###### 动态时间规整图
-Combining data in Dynamic time warping.txt and code in Dynamic time warping.py can obtain Figure 2K & Figure 2L
 ###### 桑基图
 Combining data in Sankey diagram.txt and code in Sankey diagram.R can obtain Figure 3
 ###### Bray_curtis距离PCoA图
@@ -17,3 +15,5 @@ Combining data in order-speciestop30.csv, order.csv, and mapping.csv, and code i
 Combining data in unweighted_unifrac.csv and code in unweighted_unifrac.R can obtain Figure 4C
 ###### Weighted_unifrac距离PCoA图
 Combining data in weighted_unifrac.csv and code in weighted_unifrac.R can obtain Figure S3D
+###### 动态时间规整图
+Combining data in Dynamic time warping.txt and code in Dynamic time warping.py can obtain the data of Figure 2K & Figure 2L
