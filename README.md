@@ -17,3 +17,4 @@ Combining data in unweighted_unifrac.csv and code in unweighted_unifrac.R can ob
 Combining data in weighted_unifrac.csv and code in weighted_unifrac.R can obtain Figure S3D
 ###### 动态时间规整图
 Combining data in Dynamic time warping.txt and code in Dynamic time warping.py can obtain the data of Figure 2K & Figure 2L
+###If you use these scripts, please cited: Xin Meng, Jun Zheng, Fengqiao Wang, Jie Zheng, Dong Yang. 2022. Dietary fiber chemical structure determined gut microbiota dynamics. iMeta 1: e64. https://doi.org/10.1002/imt2.64
